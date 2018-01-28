@@ -1,0 +1,140 @@
+{
+  "Cats": [
+    {
+      "Description": "Comúnmente conocidos como esfinges de Petersburgo. De origen ruso y creados en 1994, estos ejemplares poseen una cabeza alargada y sus orejas apuntan hacía ambos lados, su cuerpo puede o no estar cubierto de un poco de pelo. Son muy cariñosos, obedientes y sociables.",
+      "ID": "1",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/peterbald.jpg",
+      "Name": "Peterbald",
+      "Price": "1200",
+      "WebSite": "https://es.wikipedia.org/wiki/Peterbald"
+    },
+    {
+      "Description": "Provenientes de la familia de los persas, estos gatos fueron mutados en 1950 en Estados Unidos. Generalmente son de carácter muy agradable y son dóciles con los humanos.",
+      "ID": "2",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Himalayo.jpg",
+      "Name": "Gato himalayo",
+      "Price": "1300",
+      "WebSite": "https://es.wikipedia.org/wiki/Gato_himalayo"
+    },
+    {
+      "Description": "Estos gatos se hicieron populares en los 50’s por su pequeño ‘error genético’ que terminó siendo adorable; sus orejitas apuntan hacia abajo. La característica especial de estos felinos es que pueden caminar sobre sus patas traseras para lograr alcanzar algo de su interés. Suelen ser inteligentes y juguetones.",
+      "ID": "3",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/escoces.jpg",
+      "Name": "Gato escocés",
+      "Price": "1500",
+      "WebSite": "https://es.wikipedia.org/wiki/Scottish_Fold"
+    },
+    {
+      "Description": "Este se asemeja a las pinturas en los murales egipcios, sin embargo a lo largo de 3.000 años han sido modificados hasta quedar con esta estructura genética.",
+      "ID": "4",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/MauEgipcio.jpg",
+      "Name": "Mau Egipcio",
+      "Price": "1500",
+      "WebSite": "https://es.wikipedia.org/wiki/Mau_egipcio"
+    },
+    {
+      "Description": "Es considerado uno de los gatos más grandes del mundo. Su peso puede ser entre los 5 y 15 kilos y su altura puede llegar a ser de 1.23 metros.",
+      "ID": "5",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/MaineCoon.jpg",
+      "Name": "Maine Coon",
+      "Price": "1600",
+      "WebSite": "https://es.wikipedia.org/wiki/Maine_Coon"
+    },
+    {
+      "Description": "Considerado por los rusos el gato que trae la buena suerte al hogar. Fue reconocido en 1893.",
+      "ID": "6",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/AzulRuso.jpg",
+      "Name": "Azul ruso",
+      "Price": "2000",
+      "WebSite": "https://es.wikipedia.org/wiki/Azul_ruso"
+    },
+    {
+      "Description": "Esta raza apareció en 1980 en los Estados Unidos y su genética abarca un gran número de tonos en su pelaje rizado. Son muy afables con los niños.",
+      "ID": "7",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/LaPerm.jpg",
+      "Name": "La Perm",
+      "Price": "2100",
+      "WebSite": "https://gatos.paradais-sphynx.com/razas-felinas/laperm.htm"
+    },
+    {
+      "Description": "Esta peculiar raza se creó en 1994. Su tamaño es grande y puede llegar a pesar entre 8 y 12 kg. Son fuertes, sus orejas son grandes y sus patas son largas.",
+      "ID": "8",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Serengetti.jpg",
+      "Name": "Serengeti",
+      "Price": "2200",
+      "WebSite": "https://es.wikipedia.org/wiki/Gato_Serengeti"
+    },
+    {
+      "Description": "Es una raza relativamente joven, fue creada en 2006 en los Estados Unidos. Son inteligentes, leales y amistosos.",
+      "ID": "9",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Elfo.jpg",
+      "Name": "Gato Elfo",
+      "Price": "2500",
+      "WebSite": "http://www.notigatos.es/razas-gato-sin-pelo/"
+    },
+    {
+      "Description": "Los antepasados de esta raza fueron criados por vikingos, hace unos 2.000 años.  Su exceso de pelaje está diseñado exclusivamente para lugares donde hay muy bajas temperaturas. Son ejemplares increíbles para la caza.",
+      "ID": "10",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Noruego.jpg",
+      "Name": "Gato noruego del bosque",
+      "Price": "3000",
+      "WebSite": "https://es.wikipedia.org/wiki/Bosque_de_Noruega"
+    },
+    {
+      "Description": "Creada en California, 1981. Cuando están recién nacidos parecen gatos comunes, pero a los 10 días sus orejas se enrollan hacia atrás, para tomar su forma definitiva.",
+      "ID": "11",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/curl.jpg",
+      "Name": "Curl",
+      "Price": "3000",
+      "WebSite": "https://es.wikipedia.org/wiki/Curl_Americano"
+    },
+    {
+      "Description": "Aunque sea difícil de creer, este gato es una cruza de un gato doméstico con un leopardo asiático. Su peso oscila entre los 4 y 8 kilos. Son de los pocos a los que les encanta bañarse.",
+      "ID": "12",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Bengala.jpg",
+      "Name": "Gato de Bengala",
+      "Price": "4000",
+      "WebSite": "https://es.wikipedia.org/wiki/Prionailurus_bengalensis"
+    },
+    {
+      "Description": "Este gato fue creado en un principio con el fin de curar la leucemia, en Estados Unidos en 1970. Es una cruza entre un gato casero y uno salvaje sudamericano de Geoffroy. Llega a pesar hasta 11 kilos.",
+      "ID": "13",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Safari.jpg",
+      "Name": "Safari",
+      "Price": "8000",
+      "WebSite": "https://es.wikipedia.org/wiki/Leopardus_geoffroyi"
+    },
+    {
+      "Description": "En Siam antiguo, tener un gato Khao Manee se consideraba símbolo de abundancia, suerte y longevidad y solo los podían tener las familias más acomodadas. La primera vez que se hace mención de esta raza es en el “libro de los poemas del gato” del año 1350.",
+      "ID": "14",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/KhaoManee.jpg",
+      "Name": "Khao Manee",
+      "Price": "10000",
+      "WebSite": "https://es.wikipedia.org/wiki/Khao_Manee"
+    },
+    {
+      "Description": "Considerado como uno de los felinos más hermosos del mundo, el Caracal ahora se encuentra en peligro de extinción, debido a su dificultad para crearlos. En un principio una especie salvaje, hoy se ha domesticado para preservar su linaje.",
+      "ID": "15",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Caracal.jpg",
+      "Name": "Caracal",
+      "Price": "10000",
+      "WebSite": "https://mamiferos.paradais-sphynx.com/felinos/pequenos-felidos-salvajes/caracal-caracal.htm"
+    },
+    {
+      "Description": "Es considerado ahora como un gato doméstico, proviene del Serval africano. Actualmente están considerados los gatos más grandes del mundo tras alcanzar más de 60 centímetros de altura y su peso normal es de 15 kilos. Son tranquilos, muy inteligentes y activos.",
+      "ID": "16",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Savannah.jpg",
+      "Name": "Savannah",
+      "Price": "22000",
+      "WebSite": "https://www.petdarling.com/articulos/gato-savannah/"
+    },
+    {
+      "Description": "Un cruce entre un gato doméstico, el selval africano y el leopardo asiático han dado lugar a esta nueva raza que está causando furor",
+      "ID": "17",
+      "Image": "https://ticapacitacion.com/resources/labs/Cats/Ashera.jpg",
+      "Name": "Ashera",
+      "Price": "100000",
+      "WebSite": "http://www.expertoanimal.com/razas-de-gatos/ashera.html"
+    }
+  ]
+}
